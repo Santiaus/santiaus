@@ -1,0 +1,61 @@
+body {
+    background-image: url('MaterialeEsercizioLim/background.jpg');
+    background-size: 100% 100%;
+    padding: 50px;
+    border: 50px ;
+    margin: 10px;
+    color: white ;
+    
+    
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.618);
+    width: 750px ;
+    height: 650px;
+    padding: 50px;
+    margin:auto;
+    border: 10% ;
+    border-radius:5px;
+}
+
+h1{
+    color: #44ff2f;
+    text-align:center;     
+}
+
+.quadrato{
+    background-color: rgb(10, 243, 10);
+    margin:25px;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.caricagino{
+    background-color: rgb(223, 197, 1);
+    margin:10px;
+    padding: 5px;
+    width: 250px;
+    border-radius: 2px;
+}
+
+.caricamike{
+    background-color: rgb(0, 182, 39);
+    margin:10px;
+    padding: 5px;
+    width: 450px;
+    border-radius: 2px;
+}
+
+.caricafede{
+    background-color: rgb(231, 2, 2);
+    margin:10px;
+    padding: 5px;
+    width: 100px;
+    border-radius: 2px;
+}
+
+main {
+    text-align: left;
+}
